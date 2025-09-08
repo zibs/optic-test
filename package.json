@@ -1,6 +1,6 @@
 {
   "name": "optic-test",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Test repository for optic-release-automation-action commit hash fix",
   "main": "index.js",
   "type": "module",
