@@ -1,12 +1,12 @@
 // Main module for optic-test
 export function getVersion() {
-  console.log('adds logging')
+  console.log('adds logging again v3')
 
-  return '1.0.2'
+  return '1.0.3'
 }
 
 export function getMessage() {
-  return 'Hello from optic-test release branch! test 2'
+  return 'Hello from optic-test release branch! test -- v3'
 }
 
 export default {
