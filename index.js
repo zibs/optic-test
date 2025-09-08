@@ -3,7 +3,7 @@ export function getVersion() {
   console.log('adds logging again v13 post branch -- edit v13 edit')
   console.log('latest edit')
 
-  return '1.0.13'
+  return '1.0.14'
 }
 
 export function getMessage() {
