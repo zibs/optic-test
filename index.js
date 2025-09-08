@@ -1,8 +1,8 @@
 // Main module for optic-test
 export function getVersion() {
-  console.log('adds logging again v3')
+  console.log('adds logging again v4')
 
-  return '1.0.3'
+  return '1.0.4'
 }
 
 export function getMessage() {
