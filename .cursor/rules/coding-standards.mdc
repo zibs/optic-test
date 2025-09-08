@@ -1,0 +1,28 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Always use TypeScript.
+
+Avoid using `any` type unless explicitly required.
+
+Use async/await for all asynchronous logic. Avoid callbacks where possible.
+
+Wrap all async operations in try/catch blocks.
+
+Use modern ESNext syntax.
+
+Follow modular, composable, and DRY principles.
+
+Use functional components and hooks for state management in React code where applicable.
+
+Use `useCallback` and `useMemo` to optimize performance in React code where applicable.
+
+Use meaningful variable and function names that describe their purpose.
+
+Include unit tests for all utilities and business logic.
+
+Return meaningful error messages.
+
+Validate inputs and schema using appropriate libraries (e.g., Zod, Fastify schema).
