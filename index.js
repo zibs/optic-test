@@ -1,6 +1,6 @@
 // Main module for optic-test
 export function getVersion() {
-  console.log('adds logging again v4')
+  console.log('adds logging again v4 post branch')
 
   return '1.0.4'
 }
