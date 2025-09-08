@@ -1,13 +1,13 @@
 // Main module for optic-test
 export function getVersion() {
-  console.log('adds logging again v8 post branch -- edit v8 edit')
+  console.log('adds logging again v10 post branch -- edit v10 edit')
   console.log('latest edit')
 
   return '1.0.10'
 }
 
 export function getMessage() {
-  return 'Hello from optic-test release branch! test -- v8 -- editing again'
+  return 'Hello from optic-test release branch! test -- v10 -- editing again'
 }
 
 export default {
