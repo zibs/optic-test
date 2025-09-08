@@ -2,7 +2,7 @@
 export function getVersion() {
   console.log('adds logging again v5 post branch')
 
-  return '1.0.4'
+  return '1.0.5'
 }
 
 export function getMessage() {
