@@ -1,7 +1,7 @@
 {
-  "name": "hub-template",
+  "name": "optic-test",
   "version": "1.0.0",
-  "description": "Template to start a new repository on the hub",
+  "description": "Test repository for optic-release-automation-action commit hash fix",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nearform/hub-template.git"
+    "url": "git+https://github.com/zibs/optic-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nearform/hub-template/issues"
+    "url": "https://github.com/zibs/optic-test/issues"
   },
-  "homepage": "https://github.com/nearform/hub-template#readme",
+  "homepage": "https://github.com/zibs/optic-test#readme",
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
