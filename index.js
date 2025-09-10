@@ -4,7 +4,7 @@ export function getVersion() {
   console.log('latest edit')
   console.log('new commit')
 
-  return '1.0.16'
+  return '1.0.17'
 }
 
 export function getMessage() {
