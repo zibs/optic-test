@@ -2,6 +2,7 @@
 export function getVersion() {
   console.log('adds logging again v15 post branch -- edit v15 edit')
   console.log('latest edit')
+  console.log("new commit")
 
   return '1.0.16'
 }
